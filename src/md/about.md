@@ -1,8 +1,7 @@
 # About
 ## Hello, my name is Bryan
 
-![Bryan C. Geraghty](http://bryan.ravensight.org/wp-
-content/uploads/profile.jpg)
+![Bryan C. Geraghty](http://bryan.ravensight.org/wp-content/uploads/profile.jpg)
 
 My hope for this site is that my thoughts and experiences find their way to
 those who can make use of them.
