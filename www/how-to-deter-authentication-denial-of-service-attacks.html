@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bryan C. Geraghty</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="bootstrap.css">
+</head>
+<body>
+<h1>How to deter authentication denial-of-service attacks</h1>
+<p>Some hype has been going around the web lately related to the use of Bcrypt
+and how it opens you up to denial-of-service attacks. Now, to the seasoned
+developer, this is a completely ridiculous notion. As developers, we think
+about how and when resources will be consumed on a daily basis.</p>
+<p>To be fair, one of the videos I saw was targeting "inexperienced developers"
+and didn't offer many solutions to the issue. I wanted to chime in with some
+simple measures to implement which will help deter attackers from using your
+derivation function against you:</p>
+<ol>
+<li>Check for a valid user record before hashing the password</li>
+<li>Store the last log-in attempt time-stamp for each user</li>
+<li>Store the number of failed log-in attempts for each user</li>
+<li>Write the following time delay function into your log-in routine before the password is hashed: <ul>
+<li>If failed log-in attempts &gt; 1 </li>
+<li>Wait until (failed log-in attempts ^ 2) seconds after the last failed log-in attempt before allowing the password to be hashed again</li>
+</ul>
+</li>
+<li>Reset the number of failed log-in attempts after each successful log-in</li>
+</ol>
+<p>That's it. Simple.</p>
+<p>Thanks for stopping by.</p>
+<footer><a href="sitemap.xml">More articles</a></footer>
+</body>
+</html>

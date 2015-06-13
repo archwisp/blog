@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bryan C. Geraghty</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="bootstrap.css">
+</head>
+<body>
+<h1>Vim and .sql files</h1>
+<p>Hey, have you opened a .sql file in vim and realized with great irritation
+that you cannot use the left and right arrow keys to navigate in insert mode?
+Well, here is how you fix it.</p>
+<p>Add the following to your ~/.vimrc or ~/.vim/ftplugin/sql.vim file:</p>
+<pre><code>let g:omni_sql_no_default_maps = 1
+</code></pre>
+<footer><a href="sitemap.xml">More articles</a></footer>
+</body>
+</html>
