@@ -1,194 +1,193 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://bryan.ravensight.org/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.0.4" -->
-<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.5" -->
-<!-- generated-on="July 17, 2012 8:39 pm" -->
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
-		<loc>http://bryan.ravensight.org/</loc>
+		<loc>http://bryan.ravensight.org</loc>
 		<lastmod>2012-07-17T20:38:39+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2012/07/talk-outline-for-creating-secure-php-applications/</loc>
+		<loc>http://bryan.ravensight.org/talk-outline-for-creating-secure-php-applications.html</loc>
 		<lastmod>2012-07-17T20:38:39+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2012/07/why-i-choose-php/</loc>
+		<loc>http://bryan.ravensight.org/why-i-choose-php.html</loc>
 		<lastmod>2012-07-17T12:53:12+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2012/06/simplified-git-tips-for-svn-users-log-output/</loc>
+		<loc>http://bryan.ravensight.org/simplified-git-tips-for-svn-users-log-output.html</loc>
 		<lastmod>2012-06-22T15:49:42+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2011/04/my-letter-to-president-obama/</loc>
+		<loc>http://bryan.ravensight.org/my-letter-to-president-obama.html</loc>
 		<lastmod>2012-06-13T19:17:18+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2012/06/how-to-deter-authentication-denial-of-service-attacks/</loc>
+		<loc>http://bryan.ravensight.org/how-to-deter-authentication-denial-of-service-attacks.html</loc>
 		<lastmod>2012-06-13T18:11:44+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2012/05/the-state-of-things/</loc>
+		<loc>http://bryan.ravensight.org/the-state-of-things.html</loc>
 		<lastmod>2012-05-31T16:16:57+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2012/05/outdoor-office/</loc>
+		<loc>http://bryan.ravensight.org/outdoor-office.html</loc>
 		<lastmod>2012-05-24T16:22:59+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2012/04/infused-with-garlic/</loc>
+		<loc>http://bryan.ravensight.org/infused-with-garlic.html</loc>
 		<lastmod>2012-04-04T13:07:37+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2011/08/fireworks-or-sea-life/</loc>
+		<loc>http://bryan.ravensight.org/fireworks-or-sea-life.html</loc>
 		<lastmod>2011-08-06T21:18:01+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2011/04/bird-on-a-post/</loc>
+		<loc>http://bryan.ravensight.org/bird-on-a-post.html</loc>
 		<lastmod>2011-04-13T19:52:04+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2011/03/sha-3-finalists-php-speed-comparison/</loc>
+		<loc>http://bryan.ravensight.org/sha-3-finalists-php-speed-comparison.html</loc>
 		<lastmod>2011-03-06T03:50:41+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2010/11/congratulations-sebastian-vettel/</loc>
+		<loc>http://bryan.ravensight.org/congratulations-sebastian-vettel.html</loc>
 		<lastmod>2010-12-08T07:15:36+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2010/12/stand-with-the-eff-say-no-to-online-censorship/</loc>
+		<loc>http://bryan.ravensight.org/stand-with-the-eff-say-no-to-online-censorship.html</loc>
 		<lastmod>2010-12-08T07:14:07+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2010/07/remove-php-closing-tag/</loc>
+		<loc>http://bryan.ravensight.org/remove-php-closing-tag.html</loc>
 		<lastmod>2010-12-06T04:38:58+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2010/01/linux-acl-management-functions/</loc>
+		<loc>http://bryan.ravensight.org/linux-acl-management-functions.html</loc>
 		<lastmod>2010-12-06T03:55:23+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2010/12/how-to-clear-memory-cache-in-linux-2-6-16/</loc>
+		<loc>http://bryan.ravensight.org/how-to-clear-memory-cache-in-linux-2-6-16.html</loc>
 		<lastmod>2010-12-06T03:54:16+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2010/11/complie-simple-c-programs-with-vim/</loc>
+		<loc>http://bryan.ravensight.org/complie-simple-c-programs-with-vim.html</loc>
 		<lastmod>2010-12-03T15:59:31+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2010/11/vim-and-sql-files/</loc>
+		<loc>http://bryan.ravensight.org/vim-and-sql-files.html</loc>
 		<lastmod>2010-12-02T18:27:17+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2010/11/go-sanford/</loc>
+		<loc>http://bryan.ravensight.org/go-sanford.html</loc>
 		<lastmod>2010-11-19T16:11:54+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2010/11/adobe-reader-x-upgrade-now/</loc>
+		<loc>http://bryan.ravensight.org/adobe-reader-x-upgrade-now.html</loc>
 		<lastmod>2010-11-19T15:35:18+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2010/10/cve-2010-3765-firefox/</loc>
+		<loc>http://bryan.ravensight.org/cve-2010-3765-firefox.html</loc>
 		<lastmod>2010-11-09T18:52:25+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2009/04/mesa-boogie-subway-rocket/</loc>
+		<loc>http://bryan.ravensight.org/mesa-boogie-subway-rocket.html</loc>
 		<lastmod>2010-10-14T14:20:07+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2010/10/a-lesson-from-cyber-raid-0-protect-your-nagios-server/</loc>
+		<loc>http://bryan.ravensight.org/a-lesson-from-cyber-raid-0-protect-your-nagios-server.html</loc>
 		<lastmod>2010-10-14T14:15:17+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2009/09/software-engineering-over-engineering/</loc>
+		<loc>http://bryan.ravensight.org/software-engineering-over-engineering.html</loc>
 		<lastmod>2009-10-22T23:56:14+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2009/03/new-desk/</loc>
+		<loc>http://bryan.ravensight.org/new-desk.html</loc>
 		<lastmod>2009-10-22T23:53:02+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2009/03/yamaha-ns-4-speakers/</loc>
+		<loc>http://bryan.ravensight.org/yamaha-ns-4-speakers.html</loc>
 		<lastmod>2009-10-22T23:50:16+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2009/05/mesaboogie-subway-rocket-sound-clips/</loc>
+		<loc>http://bryan.ravensight.org/mesaboogie-subway-rocket-sound-clips.html</loc>
 		<lastmod>2009-10-22T23:46:58+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2009/05/finally-a-decent-xps-m1730-bag/</loc>
+		<loc>http://bryan.ravensight.org/finally-a-decent-xps-m1730-bag.html</loc>
 		<lastmod>2009-10-22T23:00:08+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2009/03/valley-of-fire-state-park/</loc>
+		<loc>http://bryan.ravensight.org/valley-of-fire-state-park.html</loc>
 		<lastmod>2009-10-22T19:37:57+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2009/03/so-its-wordpress-for-now/</loc>
+		<loc>http://bryan.ravensight.org/so-its-wordpress-for-now.html</loc>
 		<lastmod>2009-03-13T04:43:23+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://bryan.ravensight.org/2009/03/to-anyone-who-is-looking-for-old-content/</loc>
+		<loc>http://bryan.ravensight.org/to-anyone-who-is-looking-for-old-content.html</loc>
 		<lastmod>2009-03-13T04:43:16+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
