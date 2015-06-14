@@ -18,9 +18,6 @@ all know, over-stuffing isn't a great option for delicate equipment.
 
 ### Dell XPS M1730, meet the Tenba Shootout Photo/Laptop Courier bag  
 
-[![](http://www.tenba.com/Gfx/Pictures/Products/medium/632-703.jpg)](http://ww
-w.tenba.com/products/Shootout--Photo-Laptop-Courier.aspx)
-
 The internal dimensions of this bag are a perfect fit at 16.5"x12"x7". The
 icing on the cake is that Tenba is a renowned manufacturer of camera cases and
 they seemingly had my struggle in mind when they made this one. So far, I have

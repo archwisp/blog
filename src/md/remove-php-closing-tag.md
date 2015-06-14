@@ -1,4 +1,5 @@
 # A Script To Remove PHP Closing Tags
+
 If you are a PHP developer, you may or may not know that it is becoming
 popular to omit the closing PHP tag in class files as it's not necessary and
 it avoids the possibility of a space at the end of the file causing
@@ -11,8 +12,7 @@ The script makes use of the awk, pcregrep, sed, and wc utilities to get the
 job done. You may need to install some or all of them to make the script work.
 If you are a developer, you will probably have all of them installed anyway.
 
-[Download Source](http://bryan.ravensight.org/wp-content/uploads/code/php-
-remove-closing-tag)
+[Download Source](http://bryan.ravensight.org/wp-content/uploads/code/php-remove-closing-tag)
 
 Source Code:
     
