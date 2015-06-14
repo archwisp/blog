@@ -2,7 +2,7 @@
 The Mesa/Boogie Subway Rocket is the newest addition to my recording studio;
 it's a 22 Watt vacuum-tube guitar amplifier.
 
-[singlepic id=57 w=320 h=240]
+![Mesa/Boogie Subway Rocket](http://bryan.ravensight.org/wp-content/photos/2009/04-07%20-%20Subway%20Rocket/IMG_6568.jpg "Mesa/Boogie Subway Rocket")
 
 ### Specs
 
@@ -72,11 +72,16 @@ of gear I will never sell.
 
 ### More Photos
 
-[singlepic id=59 w=320 h=240]  
-[singlepic id=58 w=320 h=240]  
-[singlepic id=57 w=320 h=240]  
-[singlepic id=56 w=320 h=240]  
-[singlepic id=55 w=320 h=240]  
-[singlepic id=54 w=320 h=240]
+![Mesa/Boogie Subway Rocket](http://bryan.ravensight.org/wp-content/photos/2009/04-07%20-%20Subway%20Rocket/IMG_6562.jpg "Mesa/Boogie Subway Rocket Front")
+
+![Mesa/Boogie Subway Rocket](http://bryan.ravensight.org/wp-content/photos/2009/04-07%20-%20Subway%20Rocket/IMG_6567.jpg "Mesa/Boogie Subway Rocket Switches")
+
+![Mesa/Boogie Subway Rocket](http://bryan.ravensight.org/wp-content/photos/2009/04-07%20-%20Subway%20Rocket/IMG_6568.jpg "Mesa/Boogie Subway Rocket Knobs")
+
+![Mesa/Boogie Subway Rocket](http://bryan.ravensight.org/wp-content/photos/2009/04-07%20-%20Subway%20Rocket/IMG_6583.jpg "Mesa/Boogie Subway Rocket Rear")
+
+![Mesa/Boogie Subway Rocket](http://bryan.ravensight.org/wp-content/photos/2009/04-07%20-%20Subway%20Rocket/IMG_6590.jpg "Mesa/Boogie Subway Rocket FX Loop")
+
+![Mesa/Boogie Subway Rocket](http://bryan.ravensight.org/wp-content/photos/2009/04-07%20-%20Subway%20Rocket/IMG_6595.jpg "Mesa/Boogie Subway Rocket Footswitch")
 
 Thanks for stopping by!
