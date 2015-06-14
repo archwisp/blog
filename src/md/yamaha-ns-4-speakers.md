@@ -11,7 +11,7 @@ be some significant speakers to which he replied, "I'll mail them to you
 if you want them". A few months later, true to his word, the NS-4s showed
 up on my doorstep.
 
-[singlepic id=36 w=320 h=240]
+![Yamaha NS-4 and NS-10M Studio](http://bryan.ravensight.org/wp-content/photos/2009/03-04%20-%20New%20Desk/IMG_6355.jpg "Yamaha NS-4 and NS-10M Studio")
 
 Since receiving them, the NS-4s gained a permanent place on my mixing
 desk. I knew that they wouldn't be true reference monitors, but to be
@@ -34,7 +34,7 @@ mix thousands of great records.
 
 Interestingly, it seems as though there may be some relationship between the NS-4 and the NS-10M afterall.
 
-I found this post on the following: http://thewombforums.com/showthread.php?t=3835&amp;page=3
+I found this post on the following: [http://thewombforums.com/showthread.php?t=3835&amp;page=3](http://bryan.ravensight.org/wp-content/photos/2009/03-04%20-%20New%20Desk/IMG_6355.jpg)
 
 Bob Olhsson says:
 
