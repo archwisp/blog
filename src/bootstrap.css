@@ -1081,16 +1081,20 @@ th {
           box-sizing: border-box;
 }
 html {
-  font-size: 10px;
+  font-size: 16px;
 
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
   /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.42857143;
   color: #333;
   background-color: #fff;
+  width: 35em;
+}
+p {
+  text-indent: 2em;
 }
 input,
 button,
