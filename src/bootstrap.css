@@ -1091,10 +1091,10 @@ body {
   line-height: 1.42857143;
   color: #333;
   background-color: #fff;
-  width: 35em;
+  max-width: 35em;
 }
 p {
-  text-indent: 2em;
+  /* text-indent: 2em; */
 }
 input,
 button,

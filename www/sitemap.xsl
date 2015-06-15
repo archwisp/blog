@@ -7,12 +7,10 @@
 	<xsl:template match="/">
 		<html xmlns="http://www.w3.org/1999/xhtml">
 			<head>
-				<title>XML Sitemap</title>
+				<title>Sitemap</title>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 				<style type="text/css">
-					body {
-						font-family:"Lucida Grande","Lucida Sans Unicode",Tahoma,Verdana;
-						font-size:13px;
+					html {
 					}
 					
 					#intro {
@@ -23,17 +21,14 @@
 					}
 					
 					#intro p {
-						line-height:	16.8667px;
 					}
 					
 					td {
-						font-size:11px;
 					}
 					
 					th {
 						text-align:left;
 						padding-right:30px;
-						font-size:11px;
 					}
 					
 					tr.high {
@@ -43,7 +38,6 @@
 					#footer {
 						padding:2px;
 						margin:10px;
-						font-size:8pt;
 						color:gray;
 					}
 					
@@ -57,15 +51,9 @@
 				</style>
 			</head>
 			<body>
-				<h1>XML Sitemap</h1>
+				<h1>Sitemap</h1>
 				<div id="content">
 					<table cellpadding="5">
-						<tr style="border-bottom:1px black solid;">
-							<th>URL</th>
-							<th>Priority</th>
-							<th>Change Frequency</th>
-							<th>LastChange (GMT)</th>
-						</tr>
 						<xsl:variable name="lower" select="'abcdefghijklmnopqrstuvwxyz'"/>
 						<xsl:variable name="upper" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'"/>
 						<xsl:for-each select="sitemap:urlset/sitemap:url">
@@ -80,15 +68,6 @@
 									<a href="{$itemURL}">
 										<xsl:value-of select="sitemap:loc"/>
 									</a>
-								</td>
-								<td>
-									<xsl:value-of select="concat(sitemap:priority*100,'%')"/>
-								</td>
-								<td>
-									<xsl:value-of select="concat(translate(substring(sitemap:changefreq, 1, 1),concat($lower, $upper),concat($upper, $lower)),substring(sitemap:changefreq, 2))"/>
-								</td>
-								<td>
-									<xsl:value-of select="concat(substring(sitemap:lastmod,0,11),concat(' ', substring(sitemap:lastmod,12,5)))"/>
 								</td>
 							</tr>
 						</xsl:for-each>
