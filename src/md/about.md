@@ -14,17 +14,12 @@ mechanic, and auto racing enthusiast.
 
 Enjoy!
 
-[Follow @archwisp](https://twitter.com/archwisp)  
-
 ### Find me on other sites
 
-  * [ACM](http://campus.acm.org/public/vcard/vcard.cfm?handle=archwisp)
   * [FaceBook](http://www.facebook.com/profile.php?id=100002193273280)
   * [Flickr](http://www.flickr.com/photos/archwisp)
   * [GitHub](http://github.com/archwisp)
-  * [Google Reader](http://www.google.com/reader/shared/archwisp)
   * [Gravatar](http://www.gravatar.com/archwisp)
-  * [Ghostwriter](http://suche-ghostwriter.de)
   * [KCPUG](http://www.meetup.com/kcphpug/members/49566332/)
   * [LinkedIn](http://www.linkedin.com/in/bryangeraghty)
   * [SourceForge](http://sourceforge.net/users/archwisp)
