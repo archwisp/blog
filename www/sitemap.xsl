@@ -7,42 +7,20 @@
 	<xsl:template match="/">
 		<html xmlns="http://www.w3.org/1999/xhtml">
 			<head>
-				<title>Sitemap</title>
-				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+				<title>Pages</title>
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                <link rel="stylesheet" type="text/css" href="bootstrap.css" />
 				<style type="text/css">
-					html {
-					}
-					
-					#intro {
-						background-color:#CFEBF7;
-						border:1px #2580B2 solid;
-						padding:5px 13px 5px 13px;
-						margin:10px;
-					}
-					
-					#intro p {
-					}
-					
-					td {
-					}
+                    td {
+                        padding: .2em;
+                    }
 					
 					th {
 						text-align:left;
-						padding-right:30px;
 					}
 					
 					tr.high {
 						background-color:whitesmoke;
-					}
-					
-					#footer {
-						padding:2px;
-						margin:10px;
-						color:gray;
-					}
-					
-					#footer a {
-						color:gray;
 					}
 					
 					a {
@@ -51,7 +29,7 @@
 				</style>
 			</head>
 			<body>
-				<h1>Sitemap</h1>
+				<h1>Pages</h1>
 				<div id="content">
 					<table cellpadding="5">
 						<xsl:variable name="lower" select="'abcdefghijklmnopqrstuvwxyz'"/>
@@ -66,7 +44,7 @@
 										<xsl:value-of select="sitemap:loc"/>
 									</xsl:variable>
 									<a href="{$itemURL}">
-										<xsl:value-of select="sitemap:loc"/>
+										<xsl:value-of select="sitemap:title"/>
 									</a>
 								</td>
 							</tr>
